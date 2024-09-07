@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-09-07
 type: landing
 
 design:
@@ -16,8 +16,8 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
-        url: uploads/resume.pdf
+        text: Resume
+        url: 'uploads/Aron Sajan Philip.pdf'
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
@@ -35,14 +35,12 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
+
   - block: awards
     content:
-      title: Awards
+      title: Projects
       username: admin
-  - block: languages
-    content:
-      title: Languages
-      username: admin
+
 ---

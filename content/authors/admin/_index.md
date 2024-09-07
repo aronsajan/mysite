@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Aron Sajan Philip
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Aron
+last_name: Philip
 
 # Status emoji
 status:
@@ -17,156 +17,161 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Principal Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Oracle
+    url: https://www.oracle.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:aronsajan@hotmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/aronsajan
+    label: X Handle
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/aronsajan
+    label: Github Profile
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    label: LinkedIn Profile
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. Computer Science
+    institution: University of Texas at Dallas
+    date_start: 2014-08-14
+    date_end: 2016-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      GPA 3.6/4.0
+  - area: B.Tech Computer Science
+    institution: Cochin University of Science and Technology (CUSAT)
+    date_start: 2007-09-01
+    date_end: 2011-04-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.5/4
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Principal Software Engineer
+    company_name: Oracle
     company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+    company_logo: 'oracle'
+    date_start: 2024-09-16
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: 
+  - position: Senior Software Engineer
+    company_name: General Motors
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-09-14
+    date_end: 2024-09-03
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed several distributed Back Office (BO) systems to procure data from vehicles – Designed micro-services and protocols in the BO that converse with vehicle’s data hub and facilitates collection of data from vehicles.
+      - Technical lead for the backend team responsible for data collection from vehicles
+
+  - position: Senior Software Engineer
+    company_name: General Electric
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-05-18
+    date_end: 2020-09-04
+    summary: |
+      Developed the back-end services and analytics for synthesizing various KPIs for power generation turbines under GE's OPM software suite
+  - position: Senior Software Engineer
+    company_name: Honeywell
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-04-16
+    date_end: 2024-05-01
+    summary: |
+      Developed the back-end layer for Honeywell Transportation System's (now Garrett Motion) Integrated Vehicle Health Management System
+  - position: Programmer Analyst
+    company_name: Cognizant Technology Solutions
+    company_url: ''
+    company_logo: ''
+    date_start: 2011-09-22
+    date_end: 2014-06-27
+    summary: |
+      Developer responsible for implementing utilities and RAD tools for a major European insurance client
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
+      - name: Java
+        description: ''
+        percent: 90
+        icon: devicon/java
       - name: Python
         description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
-        description: ''
-        percent: 100
+        percent: 70
         icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
-        icon: devicon/pytorch
-  - name: Hobbies
+
+  - name: Libraries & Tools
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Apache Kafka
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: devicon/apachekafka
+      - name: Google PubSub
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 60
+        icon: ''
+      - name: Google Protobuf
         description: ''
-        percent: 80
-        icon: camera
+        percent: 60
+        icon: ''
+      - name: MQTT
+        description: ''
+        percent: 60
+        icon: ''
+      - name: Akka Actor Framework
+        description: ''
+        percent: 60
+        icon: devicon/akka
+      - name: Springboot
+        description: ''
+        percent: 60
+        icon: devicon/spring
+      - name: Redis
+        description: ''
+        percent: 60
+        icon: devicon/redis
+      - name: SQL Database
+        description: ''
+        percent: 60
+        icon: devicon/sqldeveloper
+      - name: Kibana Dashboard
+        description: ''
+        percent: 60
+        icon: devicon/kibana
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Handy-Messaging-Framework
+    url: https://handy-messaging-framework.github.io/handy-messaging4j-docs/
+
+    icon: github
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I am the founder and maintainer of the open source project *Handy-Messaging-Framework*. It is a framework that abstracts the messaging layer from your application. It abstracts the details of how to interface with different messaging systems like Apache Kafka, Google Pubsub, MQTT etc… It offers different features like:
+      - Portability between different messaging systems
+      - Interoperability with different messaging systems
+      - Standardized Messaging Data Types
+      - Handling message ordering to avoid race condition
+      - Seamless testing of application
+ 
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am a backend developer interested in the design and development of large scale distributed systems
