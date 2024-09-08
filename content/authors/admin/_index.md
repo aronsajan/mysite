@@ -174,4 +174,6 @@ awards:
  
 ---
 
-I am a backend developer interested in the design and development of large scale distributed systems
+I am a backend systems developer with a penchant towards developing distributed systems. I am experienced in designing and implementing large scale data systems for various organizations. Technologies where I have gained expertise in - Microservice Architecture,  
+Distributed Event Processing Architecture, Springboot Framework, Akka Actor Framework, Apache Kafka, MQTT, Redis, Google Protobuf, AWS S3, Docker, Java, Python, Oracle Database, Cassandra 
+I am the founder and maintainer of an Open Source project - Handy-Messaging-Framework which is abstraction over various distributed messaging systems. The project is a testament of my skills in the area of my focus
