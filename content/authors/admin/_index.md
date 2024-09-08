@@ -77,7 +77,7 @@ work:
     company_name: General Electric
     company_url: ''
     company_logo: ''
-    date_start: 2020-05-18
+    date_start: 2018-05-18
     date_end: 2020-09-04
     summary: |
       Developed the back-end services and analytics for synthesizing various KPIs for power generation turbines under GE's OPM software suite
@@ -86,7 +86,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2017-04-16
-    date_end: 2024-05-01
+    date_end: 2018-05-01
     summary: |
       Developed the back-end layer for Honeywell Transportation System's (now Garrett Motion) Integrated Vehicle Health Management System
   - position: Programmer Analyst
