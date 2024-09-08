@@ -37,7 +37,7 @@ profiles:
     url: https://github.com/aronsajan
     label: Github Profile
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/aron-philip-45881062
     label: LinkedIn Profile
 
 
@@ -174,6 +174,5 @@ awards:
  
 ---
 
-I am a backend systems developer with a penchant towards developing distributed systems. I am experienced in designing and implementing large scale data systems for various organizations. Technologies where I have gained expertise in - Microservice Architecture,  
-Distributed Event Processing Architecture, Springboot Framework, Akka Actor Framework, Apache Kafka, MQTT, Redis, Google Protobuf, AWS S3, Docker, Java, Python, Oracle Database, Cassandra 
+I am a backend systems developer with a penchant towards developing distributed systems. I am experienced in designing and implementing large scale data systems for various organizations. Technologies where I have gained expertise in - Microservice Architecture, Distributed Event Processing Architecture, Springboot Framework, Akka Actor Framework, Apache Kafka, MQTT, Redis, Google Protobuf, AWS S3, Docker, Java, Python, Oracle Database, Cassandra 
 I am the founder and maintainer of an Open Source project - Handy-Messaging-Framework which is abstraction over various distributed messaging systems. The project is a testament of my skills in the area of my focus
